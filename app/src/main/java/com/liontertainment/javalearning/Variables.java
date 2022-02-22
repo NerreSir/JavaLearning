@@ -1,12 +1,10 @@
 package com.liontertainment.javalearning;
 
-public class Main {
+public class Variables {
 
     public static void main(String[] args){
-
-
 /*
-        //---Final--- Değerin başına Final yazarak sabit hale getiririz
+        //---B20 Final--- Değerin başına Final yazarak sabit hale getiririz
         final int myinteger = 5;
         System.out.println("myinteger: "+ myinteger);
 
